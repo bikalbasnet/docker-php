@@ -1,0 +1,2 @@
+docker build -t "l3ikal/php:7.1.3-fpm" -f php-7.1.3-fpm/Dockerfile .
+docker push l3ikal/php:7.1.3-fpm
